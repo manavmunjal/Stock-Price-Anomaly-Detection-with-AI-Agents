@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+polygon-rest-client
+statsmodels
+arch
+crewai
+crewai[tools]
+matplotlib
+scikit-learn
+google-generativeai
